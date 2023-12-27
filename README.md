@@ -34,7 +34,7 @@ To use this model, it is recommended to run the following command in your termin
 ```
   </details>
 
-<h3 align="middle">Click on the image below to download the 2023 CUCAI paper for this project</h3>
+<h3 align="middle">Click on the image below to download the Conceptual Design Report for this project</h3>
 <div align="center">
     <a href="https://raw.githubusercontent.com/AriaMaz/Motion-Based-Diagnostic-AI-for-BPD/main/CUCAIPaper2023.pdf">
         <img src="https://github.com/AriaMaz/Motion-Based-Diagnostic-AI-for-BPD/assets/102880878/1fa30256-7cda-4465-a899-75f5a40fa87f" width="50%" alt="PDF Preview">
