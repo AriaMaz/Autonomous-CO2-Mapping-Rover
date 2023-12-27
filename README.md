@@ -1,6 +1,6 @@
 # Autonomous-CO2-Mapping-Rover
 <a href="https://github.com/AriaMaz">
-<img src="https://github.com/callan-robinson/AutonomousC02DetectingRover/assets/102880878/5d80490e-9390-40d9-b7ee-78ffdc0bc9a9" align="right" width="175" alt="Logo">
+<img src="https://github.com/AriaMaz/Autonomous-CO2-Mapping-Rover/assets/102880878/07ce0d7b-d77c-43b7-a9d0-f0d94524f765" align="right" width="175" alt="Logo">
 </a>
 <h3 align="left">Team Members</h3>
 - Aria Maz <br>
