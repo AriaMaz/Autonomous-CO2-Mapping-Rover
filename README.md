@@ -37,6 +37,6 @@ To use this model, it is recommended to run the following command in your termin
 <h3 align="middle">Click on the image below to download the Conceptual Design Report for this project</h3>
 <div align="center">
     <a href="https://raw.githubusercontent.com/AriaMaz/Motion-Based-Diagnostic-AI-for-BPD/main/CUCAIPaper2023.pdf">
-        <img src="https://github.com/AriaMaz/Motion-Based-Diagnostic-AI-for-BPD/assets/102880878/1fa30256-7cda-4465-a899-75f5a40fa87f" width="50%" alt="PDF Preview">
+        <img src="https://github.com/AriaMaz/Autonomous-CO2-Mapping-Rover/assets/102880878/102e29c1-ec53-45fe-9cb7-3e06ca39eb44" width="50%" alt="PDF Preview">
     </a>
 </div>
