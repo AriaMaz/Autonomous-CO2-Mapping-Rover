@@ -36,7 +36,7 @@ To use this model, it is recommended to run the following command in your termin
 
 <h3 align="middle">Click on the image below to download the Conceptual Design Report for this project</h3>
 <div align="center">
-    <a href="https://github.com/AriaMaz/Autonomous-CO2-Mapping-Rover/blob/188dae5e540b5796e9d79048c3a422a6e0d92311/BSBConseptualDesignReport.pdf">
+    <a href="https://raw.githubusercontent.com/AriaMaz/Autonomous-CO2-Mapping-Rover/main/BSBConseptualDesignReport.pdf">
         <img src="https://github.com/AriaMaz/Autonomous-CO2-Mapping-Rover/assets/102880878/102e29c1-ec53-45fe-9cb7-3e06ca39eb44" width="50%" alt="PDF Preview">
     </a>
 </div>
