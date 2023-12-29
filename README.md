@@ -9,7 +9,7 @@
 <p><p>
 
 <h3 align="left">Project Discription</h3>
-An autonomous rover named the Breathe Safe Bot (BSB) with real-time navigation, speed regulation, and heat mapping capabilities of the air quality data.
+An autonomous rover named the Breathe Safe Bot (BSB) with real-time navigation, speed regulation, and heat mapping capabilities of the air quality for an indoor invironment.
   
   <details>
 <summary><h4>Setup</h4></summary>
