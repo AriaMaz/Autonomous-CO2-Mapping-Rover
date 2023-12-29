@@ -13,13 +13,12 @@ An autonomous rover named the Breathe Safe Bot (BSB) with real-time navigation, 
 
 <h4 align="middle">Navigation</h4>
 
-https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/fd74e5fd-d88c-4fdf-adb3-e0b2a5c68658
+https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/14f15261-7527-4df3-ac6a-540a4dcd204e
+
 
 <h4 align="middle">Mapping</h4>
 
-
-https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/763d87be-6a4e-4693-ac55-d26b7b945967
-
+https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/a98eeb13-9566-4deb-ad69-2192f9871e30
 
   <details>
 <summary><h4>Setup</h4></summary>
