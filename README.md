@@ -18,7 +18,7 @@ https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/fd74e5fd-d88c-4fdf-ad
 <h4 align="middle">Mapping</h4>
 
 
-https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/4d4cbe50-1bea-437f-8303-f5a3d298d047
+https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/763d87be-6a4e-4693-ac55-d26b7b945967
 
 
   <details>
