@@ -12,7 +12,7 @@
 An autonomous rover named the Breathe Safe Bot (BSB) with real-time navigation, speed regulation, and heat mapping capabilities of the air quality for an indoor invironment.
 
 <h4 align="left">Navigation</h4>
-[![Video](assets/thumbnail.png)](https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/470fc182-8dbd-4003-bfa0-67898fa523a1)
+[![BreatheSafeBot Video](https://github.com/AriaMaz/BreatheSafeBot/assets/image.jpg)](https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/470fc182-8dbd-4003-bfa0-67898fa523a1)
 
 <h4 align="left">Mapping</h4>
 
