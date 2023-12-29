@@ -11,11 +11,14 @@
 <h3 align="left">Project Discription</h3>
 An autonomous rover named the Breathe Safe Bot (BSB) with real-time navigation, speed regulation, and heat mapping capabilities of the air quality for an indoor invironment.
 
-<h4 align="left">Navigation</h4>
+<h4 align="middle">Navigation</h4>
 
 https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/fd74e5fd-d88c-4fdf-adb3-e0b2a5c68658
 
-<h4 align="left">Mapping</h4>
+<h4 align="middle">Mapping</h4>
+
+
+https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/4d4cbe50-1bea-437f-8303-f5a3d298d047
 
 
   <details>
