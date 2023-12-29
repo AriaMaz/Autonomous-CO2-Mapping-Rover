@@ -10,7 +10,12 @@
 
 <h3 align="left">Project Discription</h3>
 An autonomous rover named the Breathe Safe Bot (BSB) with real-time navigation, speed regulation, and heat mapping capabilities of the air quality for an indoor invironment.
-  
+
+<h4 align="left">Navigation</h4>
+
+<h4 align="left">Mapping</h4>
+
+
   <details>
 <summary><h4>Setup</h4></summary>
 To use this model, it is recommended to run the following command in your terminal based on your respective opperating system below to create a virtual environment and download the required package managerss, interpreters, and libraries.
