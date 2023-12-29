@@ -8,7 +8,7 @@
 - Ahmed Iqbal <br>
 <p><p>
 
-<h3 align="left">Project Discription</h3>
+<h3 align="left">Project Description</h3>
 An autonomous rover named the Breathe Safe Bot (BSB) with real-time navigation, speed regulation, and heat mapping capabilities of the air quality for an indoor environment.
 
 <h4 align="middle">Navigation</h4>
