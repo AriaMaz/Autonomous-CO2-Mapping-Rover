@@ -310,7 +310,7 @@ void correct_self() {
     stop(150);
 }
 
-// Arduino setup function, called once when the sketch starts
+// Microcontroller setup function, called once when the sketch starts
 void setup() {
     // Configure motor control and direction pins for output
     pinMode(EA, OUTPUT);
