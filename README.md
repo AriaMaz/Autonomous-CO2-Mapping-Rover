@@ -20,29 +20,7 @@ https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/14f15261-7527-4df3-ac
 
 https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/a98eeb13-9566-4deb-ad69-2192f9871e30
 
-  <details>
-<summary><h4>Setup</h4></summary>
-To use this model, it is recommended to run the following command in your terminal based on your respective opperating system below to create a virtual environment and download the required package managerss, interpreters, and libraries.
-
-#### MacOS
-
-```html
-    <p>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" && brew install python && mkdir BPDAI && cd BPDAI && python3 -m venv BPDAIenv && source BPDAIenv/bin/activate && pip install pandas matplotlib numpy tensorflow keras scik</p>
-```
-
-#### Windows
-
-```html
-    <p>mkdir BPDAI; cd BPDAI; python -m venv BPDAIenv; .\BPDAIenv\Scripts\Activate; pip install pandas matplotlib numpy tensorflow keras scikit-learn</p>
-```
-
-#### Linux
-
-```html
-    <p>sudo apt update && sudo apt install python3-venv python3-pip && mkdir BPDAI && cd BPDAI && python3 -m venv BPDAIenv && source BPDAIenv/bin/activate && pip install pandas matplotlib numpy tensorflow keras scikit-learn</p>
-```
-  </details>
-
+<br>
 <h3 align="middle">Click on the image below to download the Conceptual Design Report for this project</h3>
 <div align="center">
     <a href="https://raw.githubusercontent.com/AriaMaz/Autonomous-CO2-Mapping-Rover/main/BSBConseptualDesignReport.pdf">
