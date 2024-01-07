@@ -50,20 +50,20 @@ double desired_velocity = 0; // Desired forward velocity of the robot in meters 
 double desired_steering_rate = 0; // Desired steering rate (angular velocity)
 double default_speed = 0.6; // Default speed of the robot when not avoiding obstacles
 
-// PID controller variables for navigation and control
-int kp = 300; // Proportional gain for PID controller
-int ki = 250; // Integral gain for PID controller
+// PI controller variables for navigation and control
+int kp = 300; // Proportional gain for PI controller
+int ki = 250; // Integral gain for PI controller
 double omega_L, omega_R; // Angular velocities of the left and right wheels
 double v_L, v_R; // Linear velocities of the left and right wheels
 double right_desired, left_desired; // Desired linear velocities for the left and right wheels
-double error; // Error term used in PID calculations
-double proportional; // Proportional term for PID controller
-double integral_L = 0, integral_R = 0; // Integral terms for PID controller
+double error; // Error term used in PI calculations
+double proportional; // Proportional term for PI controller
+double integral_L = 0, integral_R = 0; // Integral terms for PI controller
 short u_L = 0, u_R = 0; // Control signals for the left and right wheels
 
-// Timekeeping variables to track time intervals for PID updates
+// Timekeeping variables to track time intervals for PI updates
 unsigned long tick_clock; // Timestamp of the last encoder tick
-unsigned long controller_clock; // Timestamp of the last PID controller update
+unsigned long controller_clock; // Timestamp of the last PI controller update
 unsigned long stop_clock; // Timestamp used for implementing stopping durations
 
 // Variables to detect when the wheels have stopped moving
@@ -250,13 +250,13 @@ void slow_drive(float l_distance_des, float r_distance_des) {
             analogWrite(EA, right_pi_controller(current.v_right, 0, desired_steering_rate));
         }
 
-        // Update the controller clock for the next PID cycle
+        // Update the controller clock for the next PI cycle
         controller_clock = millis();
         // Introduce a short delay to allow other processes
         delay(50);
     }
 
-    // Reset the integral terms of the PID controller
+    // Reset the integral terms of the PI controller
     integral_L = 0;
     integral_R = 0;
 }
@@ -273,16 +273,16 @@ void stop(float stop_length) {
     while (millis() < stop_clock + stop_length) {
         // Update the vehicle state for the current wheel velocities
         compute_vehicle_state();
-        // Apply the PID control to maintain zero velocity
+        // Apply the PI control to maintain zero velocity
         analogWrite(EB, left_pi_controller(current.v_left, desired_velocity, desired_steering_rate));
         analogWrite(EA, right_pi_controller(current.v_right, desired_velocity, desired_steering_rate));
-        // Update the controller clock for the next PID cycle
+        // Update the controller clock for the next PI cycle
         controller_clock = millis();
         // Introduce a short delay to allow other processes
         delay(50);
     }
 
-    // Reset the integral terms of the PID controller
+    // Reset the integral terms of the PI controller
     integral_L = 0;
     integral_R = 0;
 }
@@ -406,10 +406,10 @@ void loop() {
 
     // Update the vehicle state with current wheel velocities
     compute_vehicle_state();
-    // Apply the PID controllers to drive the motors
+    // Apply the PI controllers to drive the motors
     analogWrite(EB, left_pi_controller(current.v_left, desired_velocity, desired_steering_rate));
     analogWrite(EA, right_pi_controller(current.v_right, desired_velocity, desired_steering_rate));
-    // Update the controller clock for the next PID cycle
+    // Update the controller clock for the next PI cycle
     controller_clock = millis();
     // Introduce a short delay to allow other processes
     delay(50);
