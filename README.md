@@ -22,7 +22,7 @@ https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/14f15261-7527-4df3-ac
 https://github.com/AriaMaz/BreatheSafeBot/assets/102880878/a98eeb13-9566-4deb-ad69-2192f9871e30
 
 <br>
-<h3 align="middle">Click on the image below to download the Conceptual Design Report for this project</h3>
+<h3 align="center">Click on the image below to download the Conceptual Design Report for this project</h3>
 <div align="center">
     <a href="https://raw.githubusercontent.com/AriaMaz/Autonomous-CO2-Mapping-Rover/main/BSBConseptualDesignReport.pdf">
         <img src="https://github.com/AriaMaz/Autonomous-CO2-Mapping-Rover/assets/102880878/102e29c1-ec53-45fe-9cb7-3e06ca39eb44" width="50%" alt="PDF Preview">
