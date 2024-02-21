@@ -3,7 +3,7 @@
 <a href="https://github.com/AriaMaz">
 <img src="https://github.com/AriaMaz/Autonomous-CO2-Mapping-Rover/assets/102880878/2a8ef742-7397-4c16-946e-9b64c6d6a57d" align="right" width="125" alt="Logo">
 </a>
-<h3 align="left">Team Members</h3>
+
 Aria Maz <br>
 Callan Robinson <br> 
 Ahmed Iqbal <br>
